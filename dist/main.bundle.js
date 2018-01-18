@@ -34,7 +34,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<app-root>\n</app-root>\n"
+module.exports = "<router-outlet>\n</router-outlet>\n"
 
 /***/ }),
 
